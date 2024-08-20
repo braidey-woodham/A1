@@ -1,0 +1,7 @@
+C:\Users\braid\CS7504\A1\A1 - Application\A1 - Application\bin\Debug\A1 - Application.exe.config
+C:\Users\braid\CS7504\A1\A1 - Application\A1 - Application\bin\Debug\A1 - Application.exe
+C:\Users\braid\CS7504\A1\A1 - Application\A1 - Application\bin\Debug\A1 - Application.pdb
+C:\Users\braid\CS7504\A1\A1 - Application\A1 - Application\obj\Debug\A1 - Application.csproj.AssemblyReference.cache
+C:\Users\braid\CS7504\A1\A1 - Application\A1 - Application\obj\Debug\A1 - Application.csproj.CoreCompileInputs.cache
+C:\Users\braid\CS7504\A1\A1 - Application\A1 - Application\obj\Debug\A1 - Application.exe
+C:\Users\braid\CS7504\A1\A1 - Application\A1 - Application\obj\Debug\A1 - Application.pdb
